@@ -1,2 +1,2 @@
 # My-Ransowares
-The my ransowares
+The my ransomwares
